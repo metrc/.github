@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome to the METRC Open-Source Repositories
+To get more information about our open-source projects, visit https://opensource.metrc.org/
 
-<!--
+To learn more about our mission, visit https://metrc.org/
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+----
+Major Extremity Trauma Research Consortium at Johns Hopkins Bloomberg School of Public Health
